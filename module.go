@@ -17,7 +17,7 @@ func Substrac(aType int, bType int) int {
 }
 
 func Addction(aType int, bType int) int {
-	return aType - bType
+	return aType + bType
 }
 
 func Sameas(zType int) string {
